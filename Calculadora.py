@@ -6,16 +6,19 @@ def sum(num1, num2):
     print(Fore.GREEN + "\nResult: " + str(float(num1) + float(num2)))
     print(Style.RESET_ALL, end="")
 
+# Funcion de resta
 def subtract(num1, num2):
     
     print(Fore.GREEN + "\nResult: " + str(float(num1) - float(num2)))
     print(Style.RESET_ALL, end="")
 
+# Funcion de multiplicacion
 def multiply(num1, num2):
 
     print(Fore.GREEN + "\nResult: " + str(float(num1)* float(num2)))
     print(Style.RESET_ALL, end="")    
 
+# Funcion de division
 def divide(num1, num2):
     
     print(Fore.GREEN + "\nResult: " + str(float(num1) / float(num2)))
