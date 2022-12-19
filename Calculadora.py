@@ -1,5 +1,6 @@
 from colorama import Fore, Style
 
+# Funcion de suma
 def sum(num1, num2):
 
     print(Fore.GREEN + "\nResult: " + str(float(num1) + float(num2)))
