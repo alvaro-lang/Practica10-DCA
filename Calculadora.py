@@ -31,9 +31,9 @@ def main():
     num2 = ""
     operator = ""
 
-    print(Fore.YELLOW + "\n##############")
+    print(Fore.YELLOW + "\n###############")
     print(Fore.YELLOW + "# CALCULADORA #")
-    print(Fore.YELLOW + "##############\n")
+    print(Fore.YELLOW + "###############\n")
     print(Style.RESET_ALL, end="")
 
     while not num1.isdigit():
