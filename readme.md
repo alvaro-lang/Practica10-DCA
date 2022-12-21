@@ -51,4 +51,3 @@ Observo cual es el error que he cometido en el commit '671fb6f7d0d184096edcbf13f
 ## GIT HOOKS:
 
 He añadido un archivo en .git/hooks llamado 'prepare-commit-msg' que cuando se hace un commit, indica el nombre del usuario qe ha hecho ese commit.
-
