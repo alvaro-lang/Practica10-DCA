@@ -50,4 +50,6 @@ Observo cual es el error que he cometido en el commit '671fb6f7d0d184096edcbf13f
 
 ## GIT HOOKS:
 
-He añadido un archivo en .git/hooks llamado 'prepare-commit-msg' que cuando se hace un commit, indica el nombre del usuario qe ha hecho ese commit.
+He añadido un archivo en .git/hooks llamado 'prepare-commit-msg.sh' que cuando se hace un commit, indica el nombre del usuario qe ha hecho ese commit.
+
+He añadido tambien un archivo llamado 'pre-push.sh' que antes de hacer push se sube documentacion del push hehco
