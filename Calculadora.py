@@ -60,7 +60,7 @@ def main():
     if operator == "+":
         sum(num1, num2)
     elif operator == "-":
-        sum(num1, num2)
+        subtract(num1, num2)
     if operator == "*":
         multiply(num1, num2)
     elif operator == "/":
