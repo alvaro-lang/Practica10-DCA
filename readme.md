@@ -7,12 +7,12 @@ Calculadora de sumas, restas, multiplicaciones y divisiones hecha en python3.
 
 En el archivo .git/config he añadido lo siguientes alias:
 
-ps = push
-pl = pull
-co = commit
-st = status
-fe = fetch
-br = branch
+	ps = push
+	pl = pull
+	co = commit
+	st = status
+	fe = fetch
+	br = branch
 
 ## GIT BISECT:
 
